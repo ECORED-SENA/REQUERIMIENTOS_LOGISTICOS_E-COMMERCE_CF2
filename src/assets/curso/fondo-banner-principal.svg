@@ -1,0 +1,26 @@
+<svg id="BANNER" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1323.667" height="568" viewBox="0 0 1323.667 568">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Trazado_99504" data-name="Trazado 99504" d="M1302.822,0H20.845A20.936,20.936,0,0,0,0,21.037V546.963A20.936,20.936,0,0,0,20.845,568H1302.822a20.936,20.936,0,0,0,20.845-21.037V21.037A20.936,20.936,0,0,0,1302.822,0Z"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="1" y1="0.5" x2="0" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7b3cee"/>
+      <stop offset="1" stop-color="#490caa"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <path id="Trazado_99506" data-name="Trazado 99506" d="M20.845,0H1302.822a20.936,20.936,0,0,1,20.845,21.037V546.963A20.936,20.936,0,0,1,1302.822,568H20.845A20.936,20.936,0,0,1,0,546.963V21.037A20.936,20.936,0,0,1,20.845,0Z"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_53306" data-name="Grupo 53306" clip-path="url(#clip-path)">
+    <path id="Trazado_99503" data-name="Trazado 99503" d="M1302.822,0H20.845A20.936,20.936,0,0,0,0,21.037V546.963A20.936,20.936,0,0,0,20.845,568H1302.822a20.936,20.936,0,0,0,20.845-21.037V21.037A20.936,20.936,0,0,0,1302.822,0Z" fill="url(#linear-gradient)"/>
+  </g>
+  <g id="Grupo_53307" data-name="Grupo 53307" clip-path="url(#clip-path-2)">
+    <path id="Trazado_99505" data-name="Trazado 99505" d="M280.363,1.84h0c0,41.348-46.182,74.871-103.163,74.871H.09V1.84Z" transform="translate(0.004 0.095)" fill="#460e9f"/>
+  </g>
+  <g id="Grupo_53308" data-name="Grupo 53308" clip-path="url(#clip-path-2)">
+    <path id="Trazado_99507" data-name="Trazado 99507" d="M768.8,496.141h0c0,27.127-21.773,49.111-48.642,49.111H535.18c0-47.638,38.24-86.252,85.413-86.252H732.021A36.963,36.963,0,0,1,768.8,496.141Z" transform="translate(22.615 23.8)" fill="#5515ba"/>
+  </g>
+  <g id="Grupo_53309" data-name="Grupo 53309" clip-path="url(#clip-path-2)">
+    <path id="Trazado_99509" data-name="Trazado 99509" d="M1033,43.451h0A41.41,41.41,0,0,1,1074.211,1.84h156.735c0,40.36-32.4,73.083-72.375,73.083h-94.408A31.33,31.33,0,0,1,1033,43.451Z" transform="translate(43.652 0.095)" fill="#681ae6"/>
+  </g>
+</svg>

@@ -1,0 +1,94 @@
+.bloque-texto-b i:last-of-type
+  vertical-align: top
+
+.cajon1.color-primario1
+  background-color: #D9F8FA
+  position: relative
+
+.cajon1::before
+  background-color: #02CDDB
+  content: ''
+  display: block
+  width: 25px
+  height: 10px
+  position: absolute
+  top: 0
+  left: 0
+
+.cajon2.color-primario2
+  background-color: #EBE2FD
+  position: relative
+
+.cajon2::before
+  background-color: #7B3CEE
+  content: ''
+  display: block
+  width: 25px
+  height: 10px
+  position: absolute
+  top: 0
+  left: 0
+
+.hr1
+  border: 1px solid #732BE5
+
+.bg-color1
+  background-color: #D9F8FA
+  margin-top: 42px
+  padding-top: 3px
+  padding-bottom: 3px
+
+.bg-color2
+  background-color: #E8E8E8
+
+.bg-color3
+  background-color: #02CDDB
+
+.bloque-texto-b.color-secundario::before
+  background-color: #D9F8FA
+
+.bloque-texto-a.color-secundario
+  background-color: #E8E8E8
+
+.bloque-texto-a.color-secundario::before
+  background-color: #02CDDB
+
+.tarjeta--boton.color-secundario:hover
+  background-color: #02DBA8
+
+.crd_02
+  display: flex
+  justify-content: flex-start
+  align-items: center
+  border-radius: 25px
+  background-color: #12263F
+  &__body
+    flex: 1
+    display: flex
+    justify-content: center
+    align-items: center
+    //padding: 2rem 0
+    &__number
+      padding: 0.5rem 1rem
+      background-color: #02CDDB
+      border-radius: 999px
+      margin: 0 25px
+      span        
+        font-size: 19px
+        font-weight: 800
+        color: #12263F
+    &__txt
+      p
+        color: white
+  &__avatar
+    flex-basis: auto
+    width: 300px
+
+  @media (max-width: 1000px) 
+    padding: 2rem 0 0 0
+    flex-direction: column
+    justify-content: end
+    align-items: flex-end
+    &__body
+      &__txt
+        margin-right: 2rem
