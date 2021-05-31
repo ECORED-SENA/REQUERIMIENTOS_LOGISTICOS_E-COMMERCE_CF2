@@ -10,11 +10,11 @@
       .h3 Introducción
     
     p.mb-4 El enfoque tradicional sobre logística menciona el empleo de aprovisionamiento, operaciones y distribución como lo más relevante de la logística en las empresas; una gran parte de la formación académica se orienta a la primera y última, dejando un espacio entre ellas al no incluir las operaciones desde la perspectiva logística, rol que ha desempeñado la administración de las operaciones.
-    .row.mb-4
-      .col-lg-6.mb-4.mb-lg-0
+    .row.mb-4.align-items-center
+      .col-lg-5.mb-4.mb-lg-0
         figure
-          img(src='@/assets/curso/img1.svg', style="max-width: 100%; margin: auto;")
-      .col-lg-6
+          img(src='@/assets/curso/img1.svg', style="max-width: 80%; margin: auto;")
+      .col-lg-7
         p El comercio de mercancías se ha incrementado por los requerimientos de los consumidores y conlleva al aumento del tráfico de mercancías, considerando que cada producto tiene un proceso de transformación para determinado fin. La logística maneja mercancías en todas sus operaciones, lo que hace necesaria la existencia de un sistema adecuado para su control. Aquí el servicio al cliente considera una serie de elementos como confianza, flexibilidad, calidad, certeza y exigencia. La logística también tiene en cuenta otros factores como los procesos de producción y se encamina al aumento de líneas de mejora y eficacia. Para un buen funcionamiento del proceso de desarrollo es importante el manejo de los sistemas de información y optimización existente, así se incrementa la competitividad en la empresa y aumenta la rentabilidad entre los factores que intervienen a fin de cumplir con la demanda local, nacional e internacional.  Lo más relevante es el mejoramiento continuo, la interacción con proveedores, transporte y administración de la empresa.
     p.mb-4 Hoy en día, los planes de producción tienen que adaptarse rápidamente a las cambiantes demandas del mercado, mientras que los métodos convencionales no pueden manejar eventos impredecibles y las alteraciones de manera satisfactoria.
     .row.mb-4.align-items-center

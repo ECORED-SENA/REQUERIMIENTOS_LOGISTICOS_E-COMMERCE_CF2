@@ -13,8 +13,8 @@
       .col-lg-5.bg-color2.p-5
         p(style="margin-top: 20px") Es el procedimiento inverso de la logística tradicional, en vez de llevar un producto de fábrica al consumidor, es el proceso de recoger un bien no aceptado ya sea por imperfecciones o fin de vida útil del consumidor a la fábrica o lugar determinado para este tipo de devoluciones.
       .col-lg-7.bg-color3.p-5
-        p(style="background-color: #F2FCFD; padding: 20px;") La gestión de las devoluciones es el proceso de gestión de la cadena de suministro que las empresas utilizan para todas las actividades relacionadas con las devoluciones, la logística inversa, el control y la evasión dentro de la empresa y en todos los elementos de la cadena de suministro. Es el equivalente a la gestión de los envíos de salida.
-    .row.align-items-center.mb-4
+        p(style="background-color: #F2FCFD; padding: 50px; margin:-25px") La gestión de las devoluciones es el proceso de gestión de la cadena de suministro que las empresas utilizan para todas las actividades relacionadas con las devoluciones, la logística inversa, el control y la evasión dentro de la empresa y en todos los elementos de la cadena de suministro. Es el equivalente a la gestión de los envíos de salida.
+    .row.align-items-center.mb-4.bg-color4
       .col-lg-6.mb-4.mb-lg-0
         figure
           img(src='@/assets/curso/img10.svg', style="max-width: 80%; margin: auto;")
