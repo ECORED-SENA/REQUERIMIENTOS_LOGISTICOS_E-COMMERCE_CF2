@@ -31,7 +31,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'KPI (Key Performance Indicators)',
+        titulo: 'KPI - Key Performance Indicators',
         desarrolloContenidos: true,
         subMenu: [
           {

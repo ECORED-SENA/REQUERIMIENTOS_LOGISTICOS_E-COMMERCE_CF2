@@ -40,7 +40,7 @@
     #t_2_2
     .titulo-segundo
       .h4 2.2  Mediciones y optimización
-    p.mb-4 Los esfuerzos que se invierten en cualquier proyecto de KPI representan la base de las mediciones utilizadas para analizar el rendimiento de cualquier actividad dentro de la empresa. Los KPI sólo son relevantes si pueden mostrarnos el camino hacia el éxito, un camino con muchas acciones diferentes con el objetivo de intentar mejorar un esfuerzo sostenido de optimización.
+    p.mb-4 Los esfuerzos que se invierten en cualquier proyecto de KPI representan la base de las mediciones utilizadas para analizar el rendimiento de cualquier actividad dentro de la empresa. Los KPI solo son relevantes si pueden mostrarnos el camino hacia el éxito, un camino con muchas acciones diferentes con el objetivo de intentar mejorar un esfuerzo sostenido de optimización.
     .row.mb-4.align-items-center
       .col-lg-6.mb-4.mb-lg-0
         figure
@@ -49,7 +49,7 @@
         p.mb-4 La optimización se define como la mejora continua de resultados que se obtienen mediante diferentes actividades como las que se evalúan en el marco de un estricto proceso de medición. Creemos que existe un ligero riesgo en intentar perseguir pequeños puntos porcentuales sin tener ningún indicador de rendimiento como referencia. En este sentido, será necesario trasladar todos los esfuerzos de optimización y canalizarlos hacia los KPI, que son puntos de referencia esenciales.
         .cajon2.color-primario2.p-4
           p La experiencia en este tipo de procesos ha enseñado que, a partir de una determinada etapa, el margen de mejora se reduce inevitablemente, la ganancia marginal de beneficio se aproxima a cero para un determinado tipo de intervención. Los analistas pueden perder su capacidad de intervenir sobre un indicador operativo que a su vez perderá su influencia en el KPI. Afortunadamente, suele haber más de una forma en la que los indicadores de rendimiento pueden influir; cada indicador forma parte de un verdadero plan de trabajo.
-    p.mb-4 Es necesario destacar el hecho de que hay un límite en la forma en que cada uno de los puntos de optimización puede mejorar. También se han visto los efectos de la anulación donde el aumento de la eficacia de una acción concreta parecía producirse sólo a favor de otra acción.
+    p.mb-4 Es necesario destacar el hecho de que hay un límite en la forma en que cada uno de los puntos de optimización puede mejorar. También se han visto los efectos de la anulación donde el aumento de la eficacia de una acción concreta parecía producirse solo a favor de otra acción.
     p.mb-5 Entre los indicadores más utilizados en comercio electrónico se debe tener en cuenta: el costo de transporte, costo por envío de acuerdo con su naturaleza, costo de almacenamiento, entregas a tiempo y los pedidos devueltos. Atendiendo a lo anterior, se puede reconocer los elementos de un indicador de gestión, de acuerdo con el siguiente esquema:
     .row.justify-content-center.mb-5
       .col-8
